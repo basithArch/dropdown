@@ -41,7 +41,7 @@ export default App;
 
 ```
 ### AUTHOR
-# Mansi Kumari
+# ABDUL BASITH
 
 ### LANDING PAGE
 <a href="https://drop-down-33b95.web.app"><img src="https://i.ibb.co/qYtzyrw/Screenshot-26.png" alt="Screenshot-26" /></a>
